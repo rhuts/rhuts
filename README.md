@@ -1,6 +1,6 @@
 ### Hey there 👋, my name is Roman
 
-![](https://github.com/rhuts/rhuts/img/banner_sunset.png)
+![](https://github.com/rhuts/rhuts/blob/main/img/banner_sunset.png?raw=true)
 
 
 <!-- ## Projects 📝 -->
