@@ -1,7 +1,8 @@
 ### Hey there 👋, my name is Roman
 
-![](https://github.com/rhuts/rhuts/blob/main/img/banner_sunset.png?raw=true)
-
+<p align="center">
+  <img src="https://github.com/rhuts/rhuts/blob/main/img/banner_sunset.png?raw=true">
+</p>
 
 <!-- ## Projects 📝 -->
 
