@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hey there 👋, my name is Roman
+
+![](https://github.com/rhuts/rhuts/img/banner_sunset.png)
+
+
+<!-- ## Projects 📝 -->
 
 <!--
 **rhuts/rhuts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
