@@ -14,8 +14,11 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :goal_net: 2022 non-tech goal: learn to do the full front lever exercise.
 
-- :mailbox: Reach me via [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/romanh/) !
+- :mailbox: Connect via [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/romanh/) !
 &nbsp;
+
+- 🌎 Email me through my website: [romanhuts.com](https://www.romanhuts.com)
+
 
 ---
 
