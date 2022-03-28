@@ -8,7 +8,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Canada working mostly in C++ and hardware accelerated graphics.
+I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> from Canada working mostly with C++ and hardware accelerated graphics.
 
 - :zap: In my free time I go on spontaneous adventures in nature and motorcycle trips with my close friends.
 
