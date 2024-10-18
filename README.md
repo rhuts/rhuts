@@ -12,9 +12,9 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 - :zap: In my free time I go on spontaneous adventures in nature and motorcycle trips with my close friends.
 
-- :goal_net: 2024 non-tech goal: learn to do the full front lever exercise.
+- :goal_net: 2025 non-tech goal: learn to do the full front lever exercise.
 
-- :mailbox: Connect via [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/romanh/) !
+- :mailbox: Connect via [LinkedIn](https://www.linkedin.com/in/romanh/) !
 &nbsp;
 
 - 🌎 Email me through my website: [romanhuts.com](https://www.romanhuts.com)
